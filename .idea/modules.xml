@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PayPal_Concersion.iml" filepath="$PROJECT_DIR$/.idea/PayPal_Concersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PayPal_Conversion_Flask.iml" filepath="$PROJECT_DIR$/.idea/PayPal_Conversion_Flask.iml" />
     </modules>
   </component>
 </project>
